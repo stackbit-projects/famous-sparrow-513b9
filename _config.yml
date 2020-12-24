@@ -19,7 +19,7 @@ header:
     - label: About
       url: /about
       style: link
-    - label: Style Guide
+    - label: Style Guid
       url: /style-guide
       style: link
     - label: Contact
